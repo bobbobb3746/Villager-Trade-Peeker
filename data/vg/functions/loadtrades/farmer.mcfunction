@@ -1,0 +1,14 @@
+data modify storage minecraft:f1 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:wheat",Count:20b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f2 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:potato",Count:26b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f3 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:carrot",Count:22b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f4 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:beetroot",Count:15b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f5 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:bread",Count:6b}}
+data modify storage minecraft:f6 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:pumpkin",Count:6b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f7 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:pumpkin_pie",Count:4b}}
+data modify storage minecraft:f8 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:apple",Count:4b}}
+data modify storage minecraft:f9 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:melon",Count:4b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:f10 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:3b},sell:{id:"minecraft:cookie",Count:18b}}
+data modify storage minecraft:f11 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:cake",Count:1b}}
+data modify storage minecraft:f12 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:suspicious_stew",Count:1b}}
+data modify storage minecraft:f13 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:3b},sell:{id:"minecraft:golden_carrot",Count:3b}}
+data modify storage minecraft:f14 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:4b},sell:{id:"minecraft:glistering_melon_slice",Count:3b}}

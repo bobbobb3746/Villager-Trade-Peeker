@@ -1,0 +1,11 @@
+data modify storage minecraft:b1 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:chicken",Count:14b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b2 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:porkchop",Count:7b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b3 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:rabbit",Count:4b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b4 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:rabbit_stew",Count:1b}}
+data modify storage minecraft:b5 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:coal",Count:15b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b6 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:cooked_porkchop",Count:5b}}
+data modify storage minecraft:b7 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:cooked_chicken",Count:8b}}
+data modify storage minecraft:b8 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:mutton",Count:7b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b9 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:beef",Count:10b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b10 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:dried_kelp_block",Count:10b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:b11 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:sweet_berries",Count:10b},sell:{id:"minecraft:emerald",Count:1b}}
