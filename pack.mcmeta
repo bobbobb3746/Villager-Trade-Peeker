@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 6,
-        "description": "Adds a recipe to craft string from wool"
+        "description": "Adds a wands that allow you to see what villagers are offering for trade from a far"
     }
 }
