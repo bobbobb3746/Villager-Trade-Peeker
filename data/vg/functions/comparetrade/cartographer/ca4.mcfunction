@@ -1,0 +1,3 @@
+execute store success score %bool vg_global run data modify storage minecraft:ca4 trade set from storage minecraft:temp trade
+execute if score %bool vg_global matches 0 run tellraw @p [{"text":"1 "},{"text":"emerald","color":"green"},{"text":" and "},{"text":"1 "},{"text":"compass","color":"gray"},{"text":" -> "},{"text":"explorer map","color":"gold"}]
+execute if score %bool vg_global matches 1 run data modify storage minecraft:ca4 trade set value {buyB:{id:"minecraft:compass",Count:1b},buy:{id:"minecraft:emerald",Count:13b},sell:{id:"minecraft:filled_map",Count:1b}}
