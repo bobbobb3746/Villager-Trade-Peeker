@@ -1,0 +1,10 @@
+function vg:loadtemp/tempzero
+function vg:comparetrade/fisherman/fi1
+function vg:comparetrade/fisherman/fi2
+function vg:comparetrade/fisherman/fi3
+function vg:comparetrade/fisherman/fi4
+function vg:loadtemp/tempone
+function vg:comparetrade/fisherman/fi1
+function vg:comparetrade/fisherman/fi2
+function vg:comparetrade/fisherman/fi3
+function vg:comparetrade/fisherman/fi4
