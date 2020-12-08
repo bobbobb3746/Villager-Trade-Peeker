@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "item": "minecraft:carrot_on_a_stick",
+        "nbt": "{Unbreakable:1b,CustomModelData:100000,Damage:0,HideFlags:4,display:{Lore:['{\"text\":\"Lets you peek at what villagers are offering from a far\",\"color\":\"dark_purple\",\"italic\":true}'],Name:'{\"text\":\"Villager Wand\",\"color\":\"aqua\",\"bold\":true}'}}"
+      }
+    }
+  }
+}
