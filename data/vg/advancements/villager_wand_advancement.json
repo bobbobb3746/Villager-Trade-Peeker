@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "villager_wand_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "vg:villager_wand"
+            }
+        }
+    },
+    "rewards": {
+        "function": "vg:give_custom_items/give_villager_wand"
+    }
+}
