@@ -12,6 +12,9 @@ function vg:loadtrades/farmer
 function vg:loadtrades/fisherman
 function vg:loadtrades/fletcher
 function vg:loadtrades/leatherworker
+function vg:loadtrades/librarian
+
+function vg:loadtrades/weaponsmith
 
 data remove storage minecraft:temp trade
 
