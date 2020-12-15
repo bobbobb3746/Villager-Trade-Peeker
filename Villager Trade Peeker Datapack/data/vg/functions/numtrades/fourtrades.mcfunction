@@ -8,5 +8,6 @@ execute if data entity @s {VillagerData:{profession:"minecraft:fisherman"}} run 
 execute if data entity @s {VillagerData:{profession:"minecraft:fletcher"}} run function vg:numtrades/fourtrades/fourtrades_fletcher
 execute if data entity @s {VillagerData:{profession:"minecraft:leatherworker"}} run function vg:numtrades/fourtrades/fourtrades_leatherworker
 execute if data entity @s {VillagerData:{profession:"minecraft:librarian"}} run function vg:numtrades/fourtrades/fourtrades_librarian
+execute if data entity @s {VillagerData:{profession:"minecraft:mason"}} run function vg:numtrades/fourtrades/fourtrades_mason
 
 execute if data entity @s {VillagerData:{profession:"minecraft:weaponsmith"}} run function vg:numtrades/fourtrades/fourtrades_weaponsmith
