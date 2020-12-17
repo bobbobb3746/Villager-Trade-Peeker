@@ -14,6 +14,7 @@ function vg:loadtrades/fletcher
 function vg:loadtrades/leatherworker
 function vg:loadtrades/librarian
 function vg:loadtrades/mason
+function vg:loadtrades/shepherd
 
 function vg:loadtrades/weaponsmith
 
