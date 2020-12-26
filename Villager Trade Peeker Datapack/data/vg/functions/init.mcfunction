@@ -15,7 +15,7 @@ function vg:loadtrades/leatherworker
 function vg:loadtrades/librarian
 function vg:loadtrades/mason
 function vg:loadtrades/shepherd
-
+function vg:loadtrades/toolsmith
 function vg:loadtrades/weaponsmith
 
 data remove storage minecraft:temp trade
