@@ -1,16 +1,4 @@
-function vg:loadtemp/tempzero
-function vg:comparetrade/butcher/b1
-function vg:comparetrade/butcher/b2
-function vg:comparetrade/butcher/b3
-function vg:comparetrade/butcher/b4
-data remove storage minecraft:temp trade
-
-function vg:loadtemp/tempone
-function vg:comparetrade/butcher/b1
-function vg:comparetrade/butcher/b2
-function vg:comparetrade/butcher/b3
-function vg:comparetrade/butcher/b4
-data remove storage minecraft:temp trade
+function vg:numtrades/twotrades/twotrades_butcher
 
 function vg:loadtemp/temptwo
 function vg:comparetrade/butcher/b5

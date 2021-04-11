@@ -1,21 +1,5 @@
-function vg:loadtemp/tempzero
-function vg:comparetrade/fisherman/fi1
-function vg:comparetrade/fisherman/fi2
-function vg:comparetrade/fisherman/fi3
-function vg:comparetrade/fisherman/fi4
-function vg:loadtemp/tempone
-function vg:comparetrade/fisherman/fi1
-function vg:comparetrade/fisherman/fi2
-function vg:comparetrade/fisherman/fi3
-function vg:comparetrade/fisherman/fi4
-function vg:loadtemp/temptwo
-function vg:comparetrade/fisherman/fi5
-function vg:comparetrade/fisherman/fi6
-function vg:comparetrade/fisherman/fi7
-function vg:loadtemp/tempthree
-function vg:comparetrade/fisherman/fi5
-function vg:comparetrade/fisherman/fi6
-function vg:comparetrade/fisherman/fi7
+function vg:numtrades/fourtrades/fourtrades_fisherman
+
 function vg:loadtemp/tempfour
 function vg:comparetrade/fisherman/fi8
 function vg:comparetrade/fisherman/fi9_1

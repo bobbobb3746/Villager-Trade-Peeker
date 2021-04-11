@@ -1,21 +1,5 @@
-function vg:loadtemp/tempzero
-function vg:comparetrade/toolsmith/t1
-function vg:comparetrade/toolsmith/t2
-function vg:comparetrade/toolsmith/t3
-function vg:comparetrade/toolsmith/t4
-function vg:comparetrade/toolsmith/t5
-function vg:loadtemp/tempone
-function vg:comparetrade/toolsmith/t1
-function vg:comparetrade/toolsmith/t2
-function vg:comparetrade/toolsmith/t3
-function vg:comparetrade/toolsmith/t4
-function vg:comparetrade/toolsmith/t5
-function vg:loadtemp/temptwo
-function vg:comparetrade/toolsmith/t6
-function vg:comparetrade/toolsmith/t7
-function vg:loadtemp/tempthree
-function vg:comparetrade/toolsmith/t6
-function vg:comparetrade/toolsmith/t7
+function vg:numtrades/fourtrades/fourtrades_toolsmith
+
 function vg:loadtemp/tempfour
 function vg:comparetrade/toolsmith/t8
 function vg:comparetrade/toolsmith/t9_1

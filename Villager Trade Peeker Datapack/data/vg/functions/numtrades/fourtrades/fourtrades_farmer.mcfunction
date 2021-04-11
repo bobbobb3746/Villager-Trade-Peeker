@@ -1,15 +1,5 @@
-function vg:loadtemp/tempzero
-function vg:comparetrade/farmer/f1
-function vg:comparetrade/farmer/f2
-function vg:comparetrade/farmer/f3
-function vg:comparetrade/farmer/f4
-function vg:comparetrade/farmer/f5
-function vg:loadtemp/tempone
-function vg:comparetrade/farmer/f1
-function vg:comparetrade/farmer/f2
-function vg:comparetrade/farmer/f3
-function vg:comparetrade/farmer/f4
-function vg:comparetrade/farmer/f5
+function vg:numtrades/twotrades/twotrades_farmer
+
 function vg:loadtemp/temptwo
 function vg:comparetrade/farmer/f6
 function vg:comparetrade/farmer/f7

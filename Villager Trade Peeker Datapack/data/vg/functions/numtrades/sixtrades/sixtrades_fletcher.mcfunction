@@ -1,17 +1,5 @@
-function vg:loadtemp/tempzero
-function vg:comparetrade/fletcher/fl1
-function vg:comparetrade/fletcher/fl2
-function vg:comparetrade/fletcher/fl3
-function vg:loadtemp/tempone
-function vg:comparetrade/fletcher/fl1
-function vg:comparetrade/fletcher/fl2
-function vg:comparetrade/fletcher/fl3
-function vg:loadtemp/temptwo
-function vg:comparetrade/fletcher/fl4
-function vg:comparetrade/fletcher/fl5
-function vg:loadtemp/tempthree
-function vg:comparetrade/fletcher/fl4
-function vg:comparetrade/fletcher/fl5
+function vg:numtrades/fourtrades/fourtrades_fletcher
+
 function vg:loadtemp/tempfour
 function vg:comparetrade/fletcher/fl6
 function vg:comparetrade/fletcher/fl7
