@@ -1,0 +1,1 @@
+function vg:comparetrade/weaponsmith/w7

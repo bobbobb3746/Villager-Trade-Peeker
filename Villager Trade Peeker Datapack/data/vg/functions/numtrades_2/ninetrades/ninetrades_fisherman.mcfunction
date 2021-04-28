@@ -1,4 +1,4 @@
-function vg:numtrades/seventrades/seventrades_fisherman
+function vg:numtrades_2/seventrades/seventrades_fisherman
 
 function vg:loadtemp/tempseven
 function vg:comparetrade/fisherman/fi11

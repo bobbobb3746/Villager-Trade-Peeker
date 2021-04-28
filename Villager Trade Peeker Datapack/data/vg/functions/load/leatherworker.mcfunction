@@ -1,0 +1,10 @@
+data modify storage minecraft:le1 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:leather",Count:6b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:le2 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:3b},sell:{id:"minecraft:leather_leggings",Count:1b}}
+data modify storage minecraft:le3 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:7b},sell:{id:"minecraft:leather_chestplate",Count:1b}}
+data modify storage minecraft:le4 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:flint",Count:26b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:le5 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:5b},sell:{id:"minecraft:leather_helmet",Count:1b}}
+data modify storage minecraft:le6 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:4b},sell:{id:"minecraft:leather_boots",Count:1b}}
+data modify storage minecraft:le7 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:rabbit_hide",Count:9b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:le8 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:scute",Count:4b},sell:{id:"minecraft:emerald",Count:1b}}
+data modify storage minecraft:le9 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:6b},sell:{id:"minecraft:leather_horse_armor",Count:1b}}
+data modify storage minecraft:le10 trade set value {buyB:{id:"minecraft:air",Count:1b},buy:{id:"minecraft:emerald",Count:6b},sell:{id:"minecraft:saddle",Count:1b}}

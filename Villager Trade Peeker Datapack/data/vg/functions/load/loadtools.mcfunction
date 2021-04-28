@@ -1,0 +1,1 @@
+data modify storage minecraft:advanced tools set value [{"id":"minecraft:iron_axe"},{"id":"minecraft:iron_shovel"},{"id":"minecraft:iron_pickaxe"},{"id":"minecraft:diamond_axe"},{"id":"minecraft:diamond_shovel"},{"id":"minecraft:diamond_pickaxe"}]

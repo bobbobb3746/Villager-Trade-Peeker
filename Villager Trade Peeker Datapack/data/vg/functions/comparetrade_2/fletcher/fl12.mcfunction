@@ -1,0 +1,3 @@
+execute store result score %bool vg_global run data modify storage minecraft:advanced potion set from entity @s Offers.Recipes[9].sell.tag.Potion
+function vg:comparetrade_2/unminecraftcolon
+execute if score %bool vg_global matches 1.. run tellraw @p ["","2 ",{"text":"emeralds ","color":"green"},"and 5 arrows"," -> ","5 ",{"text":"tipped arrows","color":"yellow","hoverEvent":{"action":"show_text","contents":[{"nbt":"potion","storage":"advanced"}]}}]

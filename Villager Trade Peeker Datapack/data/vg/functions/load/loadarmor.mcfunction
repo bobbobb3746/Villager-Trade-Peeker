@@ -1,0 +1,1 @@
+data modify storage minecraft:advanced armor set value [{"id":"minecraft:diamond_helmet"},{"id":"minecraft:diamon_chestplate"},{"id":"minecraft:diamond_leggings"},{"id":"minecraft:diamond_boots"}]
